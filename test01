@@ -1,6 +1,6 @@
 test01
 
-remote 111 1
+remote 111 1 2 3
 
 local 0
 
