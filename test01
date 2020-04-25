@@ -1,8 +1,14 @@
 test01
 
+<<<<<<< HEAD
 remote update 114 1 2
 
 
 local update 5 1 2
+=======
+remote 111 1
+
+local 0
+>>>>>>> 6b2faeccff581c76153177834e0ab382db106885
 
 README-TEST.md
