@@ -3,6 +3,6 @@ test01
 remote update 114
 
 
-local update 5 1
+local update 5 1 2
 
 README-TEST.md
